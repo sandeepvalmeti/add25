@@ -18,6 +18,9 @@ public A(int id) {
 	  }
  public static void main(String[] args) {
 	    A a = new A();
+	    System.out.println("raseem 1");
+	    System.out.println("raseem 2");
+	    System.out.println("raseem 3");
 	    
 	    System.out.println("Vyshnavi 1");
 	    
