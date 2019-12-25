@@ -18,7 +18,6 @@ public class Sandy1 {
 			public static void main(String[] args) {
 				Sandy1 obj=new Sandy1();
 				
-				
 	}
 
 }
