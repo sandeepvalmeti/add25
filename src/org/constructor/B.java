@@ -5,10 +5,12 @@ public class B extends A {
 		super();
 		System.out.println("default ");
 	}
-	
+
 	public static void main(String[] args) {
-		B obj1=new B();
+		B obj1 = new B();
+		System.out.println("raseem 1");
+		System.out.println("raseem 2");
+		System.out.println("raseem 3");
 	}
-	
 
 }
